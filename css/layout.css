@@ -7,6 +7,10 @@
   src: url(Px437_HP_100LX_6x8.ttf);
 }
 
+html, body {
+	background-color: gray;
+}
+
 
 #container {
 	width: 100%;
